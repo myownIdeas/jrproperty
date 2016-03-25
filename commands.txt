@@ -1,0 +1,41 @@
+   cpanlal user name and password
+Username: jrproper
+Password: y5d2f6l9YU
+Control Panel URL: http://216.245.209.242:2082/
+
+waqas.jr32
+pakistan1111
+{
+
+For daily command         : eval "$(ssh-agent -s)"
+[10:57:52 AM] Noman Tufail: ssh-add c:/xampp/ssh-keys/jrproperty
+[10:57:58 AM] Noman Tufail: passphrase 123456
+
+}
+git status    = for checking the status 
+git add -A    = add all new and deleted files
+git commit -am "type any messge"     
+git pull orgin dev   = dev mean you have type the branch name
+git push orgin dev   =dev mean you have type the branch name
+
+
+$ cd c:/
+$ cd xampp/
+$ cd htdocs/
+$ cd jrproperty/
+JR Tech@DESKTOP-22KFVIE MINGW32 /c/xampp/htdocs/jrproperty
+$ cd ../
+
+***** for clone*******
+$ git clone https://github.com/jr-technologies/jrproperty.git jrproperty
+
+$ git fetch origin
+
+JR Tech@DESKTOP-22KFVIE MINGW32 /c/xampp/htdocs/jrproperty (master)
+
+$ git fetch origin
+
+$ git checkout --track origin/dev
+
+
+JR Tech@DESKTOP-22KFVIE MINGW32 /c/xampp/htdocs/jrproperty (dev)
